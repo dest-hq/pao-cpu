@@ -1,7 +1,7 @@
 // To run the example, execute this command: cargo run --release -p image
 
 use image::{ImageBuffer, Rgba};
-use pao-cpu::{Canvas, Color, Position, Size};
+use pao_cpu::{Canvas, Color, Position, Size};
 
 fn main() {
     let mut canvas = Canvas::new(
