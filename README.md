@@ -1,6 +1,6 @@
-# tiny-pao
+# pao-cpu
 
-Software renderer written in Rust
+Lightweight CPU-based 2D renderer for embedded and fallback rendering
 
 ## Status
 
